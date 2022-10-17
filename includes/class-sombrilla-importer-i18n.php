@@ -41,7 +41,5 @@ class Sombrilla_Importer_i18n {
 		);
 
 	}
-
-
-
+	
 }

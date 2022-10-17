@@ -13,7 +13,8 @@
 	 *
 	 * $(function() {
 	 *
-	 * });
+	 * }); domed 
+	 * ss
 	 *
 	 * When the window is loaded:
 	 *
